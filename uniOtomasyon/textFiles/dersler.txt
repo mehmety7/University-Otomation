@@ -1,0 +1,12 @@
+NYP 4
+VeriYapilari 4
+DevrelerVeSistemler 4
+Calculus 4
+IntroductionToAlgorithym 4
+Fizik 4
+Olasilik 3
+LDT 3
+BMG 2
+BilisimEtigi 2
+DiferansiyelDenklemler 2
+OTOMATLAR 3
